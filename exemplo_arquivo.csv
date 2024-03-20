@@ -1,0 +1,4 @@
+nome, quantidade, preco, disponibilidade
+batata, 3, 2.50, True
+maça, 22, 10.10, False
+Limão, 7, 7.90, True
